@@ -11,7 +11,6 @@ This is a simple training app based on HTML, CSS, JS and 2 APIs - [Joke API](htt
 ## Running this Locally
 
 1. Go to the documentation page for the Voice RSS Text to Speech API page found [here](https://www.voicerss.org//api/)
-2. Click on 'Get API Key' on the left nav bar.
-3. Create a free account.
-4. When your account is created, you need to activate the account by clicking the 'Activate Account' button on the sign up page.
-5. Once your account is activated, you can copy your API key and paste it into the script.js file.
+2. Create a free account.
+3. When your account is created, you need to activate the account by clicking the 'Activate Account' button on the sign up page.
+4. Once your account is activated, you can copy your API key and paste it into the script.js file.
